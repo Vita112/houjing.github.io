@@ -84,7 +84,7 @@ author:
   avatar           : "profile_test.jpg"
   bio              : "Vision and Language learning, Multi-modal Learning"
   location         : "Nomi, Ishikawa, Japan"
-  employer         : "Japan Advanced Institute of Science and Technology"
+  employer         : "JAIST"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "weihoujing@163.com"
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "houjing"
+  github           : "Vita112"
   google_plus      :
   keybase          :
   instagram        :
   # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  WeChat        :
+  WeChat           : 
 
 
 # Reading Files
