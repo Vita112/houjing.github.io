@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "🤗Hi, there, I'm houjing!"
+title: "🤗Hi there, I'm houjing!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
