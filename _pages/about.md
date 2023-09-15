@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![test image](/images/500x300.png){: .align-right width="300px"}
+![test image](/home/s2310041/my_web_page/houjing.github.io/images/500x300.png){: .align-right width="300px"}
 👩I am a master  student in Japan Advanced Institute of Science and Technology.
 
 🔭My research interests lie in bridging vision and language modalities.
