@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![test image](../images/test-robot.jpg){: align="right" width="300px"}
+![test image](../images/test-robot.jpg){: .align-right}
 
 
 👩I am a master  student in Japan Advanced Institute of Science and Technology.
