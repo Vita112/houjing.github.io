@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-![test image](../images/test-robot.jpg){: .align-right width="300px"}
+![test image](../images/test-robot.jpg){: align="right" width="300px"}
+
+
 👩I am a master  student in Japan Advanced Institute of Science and Technology.
 
 🔭My research interests lie in bridging vision and language modalities.
@@ -17,10 +19,11 @@ redirect_from:
 
 Education Background
 ======
-
+input some info.
 
 Selected Experience
 ======
+
 Project 1
 ------
 some description. 
