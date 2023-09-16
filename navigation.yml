@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: _pages/cv.md
+    url: cv.md
     #url: ../files/test.pdf
 
   # - title: "Talks"
@@ -11,10 +11,10 @@ main:
   #   url: /teaching/    
     
   - title: "Portfolio"
-    url: _portfolio/portfolio-1.md
+    url: ./_portfolio/portfolio-1.md
 
   - title: "Publications"
-    url: _publications/2009-10-01-paper-title-number-1.md
+    url: /_publications/2009-10-01-paper-title-number-1.md
         
   # - title: "Blog Posts"
   #   url: /year-archive/
