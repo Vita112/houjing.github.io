@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![test image](../images/test-robot.jpg#right)
+![test image](../images/foo-bar-identity.jpg)
 
 
 👩I am a master  student in Japan Advanced Institute of Science and Technology.

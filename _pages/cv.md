@@ -27,14 +27,15 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+Language Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Nature Language
+  * Chinese: Native
+  * Japanese: Fluent
+  * English: Fluent
+* Programming Language
+  * Python 
+
 
 Publications
 ======

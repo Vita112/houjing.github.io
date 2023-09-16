@@ -1,8 +1,8 @@
 # main links links
 main:
   - title: "CV"
-    #url: /cv/
-    url: ../files/test.pdf
+    url: ../_pages/cv.md
+    #url: ../files/test.pdf
 
   # - title: "Talks"
   #   url: /talks/    
