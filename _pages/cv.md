@@ -19,8 +19,8 @@ Education Background
 Work experience
 ======
 to be completed.
-[^_^]:  我是注释
-[^_^]:  * Summer 2015: Research Assistant
+[^_^]: # 我是注释
+[^_^]:  # * Summer 2015: Research Assistant
   [^_^]:  * Github University
   [^_^]:  * Duties included: Tagging issues
   [^_^]:  * Supervisor: Professor Git
