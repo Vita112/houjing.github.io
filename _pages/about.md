@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![test image](./images/foo-bar-identity.jpg)
+# ![test image](./images/foo-bar-identity.jpg)
 
 
 👩I am a master  student in Japan Advanced Institute of Science and Technology.
@@ -16,10 +16,6 @@ redirect_from:
 🔭My research interests lie in bridging vision and language modalities.
 
 📚I'm currently interested in probing MLLMs(Multi-modal Large Language Models), especially to test the positional relationship understand capability of these models.(tentative)
-
-Education Background
-======
-input some info.
 
 Selected Experience
 ======

@@ -1,20 +1,19 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /cv
-  - 
+  - /cv/
 ---
 
 
-
-Education
+Education Background
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Guangaxi,China \t GuangaxiUniversity, 2009~2013
+* M.S. in Sichuan, China \t Southwest Jiaotong University, 2015~2018
+* Research Student in Tokyo, Japan \t Tokyo Metropolitan University, 2021~2023
+* M.S. in Ishikawa, Japan \t Japan Advanced Institute of Science and Technology, 2023~
 
 Work experience
 ======
@@ -40,11 +39,12 @@ Language Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+To be completed.
+  <!-- <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -58,4 +58,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

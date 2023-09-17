@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "CV"
+  - title: "About Me"
     url: /cv/
     #url: ../files/test.pdf
 
@@ -10,8 +10,8 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
 
   - title: "Publications"
     url: /publications/
