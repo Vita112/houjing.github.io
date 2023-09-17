@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# ![test image](./images/foo-bar-identity.jpg)
+<!-- ![test image](./images/foo-bar-identity.jpg) -->
 
 
 👩I am a master  student in Japan Advanced Institute of Science and Technology.
@@ -17,7 +17,7 @@ redirect_from:
 
 📚I'm currently interested in probing MLLMs(Multi-modal Large Language Models), especially to test the positional relationship understand capability of these models.(tentative)
 
-Selected Experience
+<!-- Selected Experience
 ======
 
 Project 1
@@ -26,5 +26,5 @@ some description.
 
 Project 2
 ------
-some description. 
+some description.  -->
 
