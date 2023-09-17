@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: /pages/cv.md
+    url: /_pages/cv.md
     #url: ../files/test.pdf
 
   # - title: "Talks"
