@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "About Me"
+# title: "About Me"
 permalink: /cv/
 author_profile: true
 # redirect_from:
@@ -11,10 +11,10 @@ author_profile: true
 
 Education Background
 ======
-* B.S. in Guangaxi,China \t GuangaxiUniversity, 2009~2013
-* M.S. in Sichuan, China \t Southwest Jiaotong University, 2015~2018
-* Research Student in Tokyo, Japan \t Tokyo Metropolitan University, 2021~2023
-* M.S. in Ishikawa, Japan \t Japan Advanced Institute of Science and Technology, 2023~
+* B.S. in GuangaxiUniversity, Guangaxi,China  2009~2013
+* M.S. in Southwest Jiaotong University, Sichuan, China  2015~2018
+* Research Student in Tokyo Metropolitan University, Tokyo, Japan  2021~2023
+* M.S. in Japan Advanced Institute of Science and Technology, Ishikawa, Japan  2023~
 
 Work experience
 ======
@@ -41,6 +41,7 @@ Language Skills
 Publications
 ======
 To be completed.
+
   <!-- <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
