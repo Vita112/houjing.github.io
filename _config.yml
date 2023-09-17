@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WEI Houjing/魏厚静"
+title                    : "Houjing WEI/魏厚静"
 title_separator          : "-"
-name                     : &name "Houjing WEI"
-description              : &description "personal description"
-url                      : https://vita112.github.io/houjing.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Houjing WEI/魏厚静"
+description              : &description "Information science Master first year in Japan Advanced Institute of Science and Technology"
+url                      : https://houjing.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Vita112/houjing.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
