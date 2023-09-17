@@ -11,7 +11,7 @@ author_profile: true
 
 To be completed.
 
-# uncomment this to list publications.
+<!-- uncomment this to list publications. -->
 <!-- {% include base_path %}
 
 {% for post in site.publications reversed %}
