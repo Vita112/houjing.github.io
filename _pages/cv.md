@@ -1,6 +1,6 @@
 ---
 layout: archive
-# title: "About Me"
+title: "About Me"
 permalink: /cv/
 author_profile: true
 # redirect_from:
@@ -18,7 +18,8 @@ Education Background
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+to be completed.
+<!-- * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
@@ -26,7 +27,7 @@ Work experience
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub -->
   
 Language Skills
 ======
@@ -45,19 +46,8 @@ To be completed.
   <!-- <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
+
   
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+<!-- Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
