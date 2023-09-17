@@ -18,18 +18,11 @@ Education Background
 
 Work experience
 ======
-to be completed.
-[^_^]: # 我是注释
-[^_^]:  # * Summer 2015: Research Assistant
-  [^_^]:  * Github University
-  [^_^]:  * Duties included: Tagging issues
-  [^_^]:  * Supervisor: Professor Git
+* 2018/07~2021/03: Secretary,Project Manager
+  * Chengdu BOE Optoelectronics Technology Co., Ltd.
+  * Duties included: to be completed. 
 
-[^_^]:  * Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+
 Language Skills
 ======
 * Nature Language
@@ -44,11 +37,6 @@ Publications
 ======
 To be completed.
 
-  <!-- <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
 
   
-<!-- Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
+
