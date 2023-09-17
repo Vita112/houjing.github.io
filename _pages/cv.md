@@ -19,15 +19,16 @@ Education Background
 Work experience
 ======
 to be completed.
-<!-- * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+[^_^]:  我是注释
+[^_^]:  * Summer 2015: Research Assistant
+  [^_^]:  * Github University
+  [^_^]:  * Duties included: Tagging issues
+  [^_^]:  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
+[^_^]:  * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub -->
+  * Supervisor: Professor Hub
   
 Language Skills
 ======
