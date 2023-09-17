@@ -1,10 +1,10 @@
 ---
 layout: default
 title: "CV"
-permalink: /_pages/
+permalink: /_pages/cv.md
 author_profile: true
 redirect_from:
-  - /cv/
+  - 
 ---
 
 {% include base_path %}
