@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: defaults
 title: "CV"
 permalink: /_pages/cv.md
 author_profile: true
